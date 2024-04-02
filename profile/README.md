@@ -1,7 +1,14 @@
-[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/TechNexion/meta-tn-imx-bsp/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/TechNexion/meta-tn-imx-bsp/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/TechNexion/meta-tn-imx-bsp/network)
 
-![image](https://github.com/TechNexion-Vision/.github-private/assets/7445644/a4c04c64-0505-4509-a5ab-99fe0c71aa59)
+Embedded Vision Products
 
 :rocket: https://www.technexion.com/products/embedded-vision/
+
+Supported Platforms
+
+| Platform | Repository | Description |
+|:---------|:-----------|:------------|
+| NXP i.MX SoC | [nxp_imx_tn_bsp](https://github.com/TechNexion-Vision/nxp_imx_tn_bsp) | TechNexion i.MX series SoM |
+| NXP i.MX EVK | [nxp_evk_camera](https://github.com/TechNexion-Vision/nxp_evk_camera) | NXP i.MX series EVK |
+| TI AM SoC    | [ti_amxx_tn_bsp](https://github.com/TechNexion-Vision/ti_amxx_tn_bsp) | |
+| nVidia Jetson | [nvidia_jetson_tn_bsp](https://github.com/TechNexion-Vision/nvidia_jetson_tn_bsp) | |
+| Raspberry Pi | [tn-rpi-camera-driver](https://github.com/TechNexion-Vision/tn-rpi-camera-driver) | |
