@@ -2,7 +2,7 @@
 
 TechNexion offers a robust suite of Embedded Vision solutions designed to accelerate development, shorten time-to-market, and foster innovation in embedded vision applications. Our drivers support a range of platforms, ensuring seamless integration and performance optimization.<br/> 
 
-📷 [TechNexion Embedded Vision](https://www.technexion.com/products/embedded-vision/)
+[![TechNexion](https://github.com/TechNexion-Vision/TEV-Jetson_Camera_driver/assets/28101204/08cd2fa9-7333-4a16-819f-c69a3dbf290c)](https://www.technexion.com/products/embedded-vision/)
 <br/> 
 
 ### ⭐Supported Platforms
