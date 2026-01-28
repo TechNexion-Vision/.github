@@ -19,7 +19,9 @@ TechNexion offers a robust suite of Embedded Vision solutions designed to shorte
 * [**vizionsdk-python**](https://github.com/TechNexion-Vision/vizionsdk-python)
     * **Python** - Python bindings for rapid prototyping and AI integration.
 * [**vizionsdk-csharp**](https://github.com/TechNexion-Vision/vizionsdk-csharp)
-    * **C#** - .NET wrapper for Windows application development.
+    * **C#** - .NET wrapper for cross-platform application development.
+* [**vizionsdk-c**](https://github.com/TechNexion-Vision/vizionsdk-c)
+    * **C** - C wrapper for native C application development.
 
 ---
 
