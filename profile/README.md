@@ -22,6 +22,8 @@ TechNexion offers a robust suite of Embedded Vision solutions designed to shorte
     * **C#** - .NET wrapper for cross-platform application development.
 * [**vizionsdk-c**](https://github.com/TechNexion-Vision/vizionsdk-c)
     * **C** - C wrapper for native C application development.
+* [**vizionsdk-ros2**](https://github.com/TechNexion-Vision/vizionsdk-ros2)
+    * **ROS 2** - ROS 2 wrapper for publishing camera images, IMU data, camera info, status, and ISP controls.
 
 ---
 
